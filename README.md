@@ -88,5 +88,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 ![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=40&column=7)
 <br>
+</div>
+</div>
 
 
