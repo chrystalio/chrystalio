@@ -67,14 +67,13 @@ Looking forward to learning, collaborating, and sharing about Web Development
 # 📊 GitHub Stats:
 
 
-<span style="padding-top: 30px;">
+<span style="padding-top: 20px;">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </span>
 
 <br>
-
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top" width="50%">
