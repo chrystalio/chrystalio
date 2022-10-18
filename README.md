@@ -1,5 +1,9 @@
-## Hi, Kristoff's here 🚀
+<div align="center" style="padding-bottom: 10px">
 
+## Hi, Kristoff's here 🚀
+</div>
+
+<div align="center">
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -13,23 +17,26 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!
+<hr>
+
+</div>
+
+<div align="center">
+
+## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kristoffid.kristoffid)
 I'm a first-year Computer Science student from Batam, Indonesia 🇮🇩 <br>
 Currently, working as a full-time programmer 🧑‍💻 <br>
 I'm interested in Website Development 🌐  <br>also on my way to learning more about Mobile Development 📱<br>
 My primary skill is in Frontend Development, but taking currently taking the role of a Backend Developer
 
 Looking forward to learning, collaborating, and sharing about Web Development
+<div>
 <br/>
-<div align="left" style="width: 100%; margin-top: 60px;">
+<div align="center" style="width: 100%; margin-top: 60px;">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-</div> 
-
-<hr>
-
-## Languages and Tools 🧑‍💻
-<div align="left">  
+</div>
+<div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="38" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="38" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="38" /></a>  
@@ -48,18 +55,21 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="38" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="38" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="38" /></a>  
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 </div>  
+
 
 <br/>
 
 # 📊 GitHub Stats:
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td valign="top" width="59%">
+        <td valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 </td>
@@ -67,12 +77,11 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=dark&hide_border=false)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </td>
 </tr>
 </table>
+
+![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=40&column=7)
 <br>
 
 
-----
