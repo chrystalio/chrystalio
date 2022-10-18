@@ -1,9 +1,5 @@
 ## Hi, Kristoff's here 🚀  
 
-<div align="left" style="padding-bottom:20px">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />
-</div>  
-
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -30,6 +26,11 @@ Looking forward to learning, collaborating, and sharing about Web Development
   
 <br/>  
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -47,7 +48,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
