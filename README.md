@@ -2,13 +2,6 @@
 
 # Hi, Kristoff's here 🚀
 
-<br>
-
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=myrn6zom95apm44776uazu2qg&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=b42d2d&bar_color_cover=true)]]
-
-<br>
-
-
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,14 +14,14 @@
 <a href="https://twitter.com/kristoff_id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-
 <hr>
-
 </div>
 
 <div align="center">
 
-## Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=kristoffid.kristoffid)
+## Glad to see you here! 👋🏻 &nbsp; 
+![](https://visitor-badge.glitch.me/badge?page_id=kristoffid.kristoffid)
+
 I'm a first-year Computer Science student from Batam, Indonesia 🇮🇩 <br>
 Currently, working as a full-time programmer 🧑‍💻 <br>
 I'm interested in Website Development 🌐  <br>also on my way to learning more about Mobile Development 📱<br>
@@ -37,7 +30,10 @@ My primary skill is in Frontend Development, but taking currently taking the rol
 Looking forward to learning, collaborating, and sharing about Web Development
 <div>
 <br/>
-<div align="center" style="width: 100%; margin-top: 60px;">
+<div align="center" style="width: 100%; margin-top: 40px;">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&redirect=true)
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
