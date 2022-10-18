@@ -23,7 +23,7 @@
 <a href="https://reddit.com/u/kriskietoff" target="_blank">
 <img src=https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
 </a>
-<a href="https://freecodecamp.org/kristoffid" target="_blank">
+<a href="https://freecodecamp.org/chrystalio_kie" target="_blank">
 <img src=https://img.shields.io/badge/freecodecamp-%2300f.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white alt=freecodecamp style="margin-bottom: 5px;" />
 </a>
 <hr>
