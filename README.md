@@ -2,6 +2,13 @@
 
 # Hi, Kristoff's here 🚀
 
+<br>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=myrn6zom95apm44776uazu2qg&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=b42d2d&bar_color_cover=true)]]
+
+<br>
+
+
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
