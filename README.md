@@ -1,9 +1,7 @@
 <div align="center" style="padding-bottom: 10px">
 
 # Hi, Kristoff's here 🚀
-</div>
 
-<div align="center">
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -61,7 +59,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <br/>
 
 # 📊 GitHub Stats:
-
 
 <span style="padding-top: 20px;">
 
