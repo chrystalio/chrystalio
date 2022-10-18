@@ -33,7 +33,6 @@
 
 ## Glad to see you here! 👋🏻 &nbsp;
 
-![](https://visitor-badge.glitch.me/badge?page_id=kristoffid.kristoffid)
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chrystalio/count.svg" />
