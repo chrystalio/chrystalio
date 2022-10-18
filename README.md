@@ -57,6 +57,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="38" /></a>  
 
 <br>
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
