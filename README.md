@@ -56,11 +56,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="38" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="38" /></a>  
 
-<span style="padding-top: 30px;">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</span>
 
 
 </div>  
@@ -69,6 +65,16 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <br/>
 
 # 📊 GitHub Stats:
+
+
+<span style="padding-top: 30px;">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</span>
+
+<br>
+
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top" width="50%">
