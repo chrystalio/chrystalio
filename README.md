@@ -12,9 +12,9 @@
 </a>
 <a href="https://twitter.com/kristoff_id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a>
+![Profile views counter](https://komarev.com/ghpvc/?username=kristoff&&style=flat-square)  
   
-
 
 
 ### Glad to see you here!  
@@ -86,17 +86,5 @@ Looking forward to learning, collaborating, and sharing about Web Development
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=kristoff&&style=flat-square)  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
