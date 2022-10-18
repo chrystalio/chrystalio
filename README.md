@@ -2,8 +2,8 @@
 
 # Hi, Kristoff's here 🚀
 
-<a href="https://github.com/chrystalio" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://www.duolingo.com/profile/Chrystalio">
+<img src="https://img.shields.io/badge/Duolingo-007BFF?style=for-the-badge&logo=Duolingo&logoColor=white" alt="Duolingo" />
 </a>
 <a href="https://dev.to/kristoffid" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -13,6 +13,21 @@
 </a>
 <a href="https://twitter.com/kristoff_id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kristoff_id" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/kristoffid" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/channel/UC07T8rX4spj8t2qTI78JqHw" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://reddit.com/u/kriskietoff" target="_blank">
+<img src=https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white alt=reddit style="margin-bottom: 5px;" />
+</a>
+<a href="https://freecodecamp.org/kristoffid" target="_blank">
+<img src=https://img.shields.io/badge/freecodecamp-%2300f.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white alt=freecodecamp style="margin-bottom: 5px;" />
 </a>
 <hr>
 </div>
@@ -67,6 +82,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chrystalio)  
 </span>
 <br>
 <table border="0" cellspacing="0" cellpadding="0">
