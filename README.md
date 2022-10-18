@@ -14,9 +14,6 @@
 <a href="https://twitter.com/kristoff_id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/kristoff_id" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 <a href="https://t.me/kristoffid" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
@@ -34,8 +31,13 @@
 
 <div align="center">
 
-## Glad to see you here! 👋🏻 &nbsp; 
+## Glad to see you here! 👋🏻 &nbsp;
+
 ![](https://visitor-badge.glitch.me/badge?page_id=kristoffid.kristoffid)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chrystalio/count.svg" />
+</p>
 
 I'm a first-year Computer Science student from Batam, Indonesia 🇮🇩 <br>
 Currently, working as a full-time programmer 🧑‍💻 <br>
@@ -48,7 +50,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <div align="center" style="width: 100%; margin-top: 40px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&redirect=true)
-
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
@@ -78,19 +79,16 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 # 📊 GitHub Stats:
 
+![GitHub metrics](https://metrics.lecoq.io/chrystalio)  
 <span style="padding-top: 20px;">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/chrystalio)  
-</span>
-<br>
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
         <td valign="top" width="50%">
 
 ![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 
 
 </td>
@@ -102,7 +100,11 @@ Looking forward to learning, collaborating, and sharing about Web Development
 </tr>
 </table>
 
-![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=40&column=7)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chrystalio)
+</span>
+
+![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=15&column=7)
+<br>
 <br>
 </div>
 </div>
