@@ -26,9 +26,20 @@ Looking forward to learning, collaborating, and sharing about Web Development
   
 <br/>  
 
+
+
+</td></tr></table>  
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=dark&hide_border=false)<br/>
+<table><tr><td valign="top" width="50%">
+
+![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</td><td valign="top" width="50%">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=dark&hide_border=false)
+<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
