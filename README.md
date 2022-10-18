@@ -1,5 +1,8 @@
 ## Hi, Kristoff's here 🚀  
-  
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
 
 <a href="https://github.com/chrystalio" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -13,7 +16,7 @@
 <a href="https://twitter.com/kristoff_id" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-![Profile views counter](https://komarev.com/ghpvc/?username=kristoff&&style=flat-square)  
+
   
 
 
@@ -25,9 +28,7 @@ My primary skill is in Frontend Development, but taking currently taking the rol
 
 Looking forward to learning, collaborating, and sharing about Web Development  
   
-
 <br/>  
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -38,7 +39,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 
 </td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
