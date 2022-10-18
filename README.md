@@ -29,8 +29,11 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
 
