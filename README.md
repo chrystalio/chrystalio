@@ -52,10 +52,10 @@ Looking forward to learning, collaborating, and sharing about Web Development
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&redirect=true)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
   
-<div>
-  [![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
- </div>
+[![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
+  
 </div>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="38" /></a>  
