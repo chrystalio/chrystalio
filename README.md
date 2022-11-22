@@ -54,7 +54,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
 <div>
-  [![@chrystalio's Holopin board](https://holopin.io/api/user/board?user=chrystalio)](https://holopin.io/@chrystalio) 
+  [![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
  </div>
 </div>
 <div align="center">  
