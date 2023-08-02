@@ -82,8 +82,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 </td>
 </tr>
 </table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chrystalio)
 </span>
 
 ![](https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=40&margin-h=15&column=7)
