@@ -82,6 +82,7 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <br/>
 
 # 📊 GitHub Stats:
+[![wakatime](https://wakatime.com/badge/user/7a61dce4-9247-4e92-88ad-5adb69d3bb0f.svg)](https://wakatime.com/@7a61dce4-9247-4e92-88ad-5adb69d3bb0f)
 
 ![GitHub metrics](https://metrics.lecoq.io/chrystalio)  
 <span style="padding-top: 20px;">
