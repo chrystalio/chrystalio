@@ -62,7 +62,15 @@ Looking forward to learning, collaborating, and sharing about Web Development
 # 📊 GitHub Stats:
 [![wakatime](https://wakatime.com/badge/user/7a61dce4-9247-4e92-88ad-5adb69d3bb0f.svg)](https://wakatime.com/@7a61dce4-9247-4e92-88ad-5adb69d3bb0f)
 
-![GitHub metrics](https://metrics.lecoq.io/chrystalio)  
+![GitHub metrics](https://metrics.lecoq.io/chrystalio) 
+
+<br />
+
+[![Profile badge](https://www.codewars.com/users/chrystalio/badges/large)](https://www.codewars.com/users/chrystalio)
+
+<br />
+
+
 <span style="padding-top: 20px;">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrystalio&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
@@ -73,7 +81,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 ![](https://github-readme-stats.vercel.app/api?username=chrystalio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-
 </td>
 <td valign="top" width="50%">
 
@@ -81,7 +88,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 <br />
 
-[![Profile badge](https://www.codewars.com/users/chrystalio/badges/large)](https://www.codewars.com/users/chrystalio)
 
 </td>
 </tr>
