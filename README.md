@@ -79,6 +79,10 @@ Looking forward to learning, collaborating, and sharing about Web Development
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=dark&hide_border=false)
 
+<br />
+
+[![Profile badge](https://www.codewars.com/users/chrystalio/badges/large)](https://www.codewars.com/users/chrystalio)
+
 </td>
 </tr>
 </table>
