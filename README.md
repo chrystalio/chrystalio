@@ -42,7 +42,7 @@
 I'm a first-year Computer Science student from Batam, Indonesia 🇮🇩 <br>
 Currently, working as a full-time programmer 🧑‍💻 <br>
 I'm interested in Website Development 🌐  <br>also on my way to learning more about Mobile Development 📱<br>
-My primary skill is in Frontend Development, but taking currently taking the role of a Backend Developer
+My primary skill is in Frontend Development, but currently taking the role of a Backend Developer
 
 Looking forward to learning, collaborating, and sharing about Web Development
 <div>
