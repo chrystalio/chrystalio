@@ -49,8 +49,6 @@ Looking forward to learning, collaborating, and sharing about Web Development
 <br/>
 <div align="center" style="width: 100%; margin-top: 40px;">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&cover_image=true&theme=natemoo-re&show_offline=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=myrn6zom95apm44776uazu2qg&redirect=true)
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
