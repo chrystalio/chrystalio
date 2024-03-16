@@ -17,7 +17,7 @@ jobs:
           SHOW_TITLE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
-          CODE_LANG: json
+          CODE_LANG: python
           SHOW_TIME: true
           SHOW_TOTAL: true
           # Commmit
