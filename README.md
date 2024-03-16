@@ -35,12 +35,22 @@
 </div>
 
 ## 👨🏻‍💻 About Me : 
-- 🧠 Bangkit Academy Cohort 2024 - Cloud Computing 
-- 🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩
-- 💼 Full-time programmer passionate about coding
-- 🌐 Interested in everything related to Tech
-- 💬 Enthusiastic about learning and collaborating in Web Development
-<br/>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 4;">
+    <ul>
+      <li>🧠 Bangkit Academy Cohort 2024 - Cloud Computing</li>
+      <li>🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩</li>
+      <li>💼 Full-time programmer passionate about coding</li>
+      <li>🌐 Interested in everything related to Tech</li>
+      <li>💬 Enthusiastic about learning and collaborating in Web Development</li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding-top:10px;">
+    <img src="code.gif" width="200px">
+  </div>
+</div>
+
 
 ## 📊 Activities :
 <!-- Two column div -->
