@@ -25,7 +25,7 @@
 </a>
 <p> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chrystalio/count.svg"/>
+  <img src="https://profile-counter.glitch.me/chrystalio/count.svg" />
 </p>
 
 <a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 10px;">
@@ -60,5 +60,6 @@
 <div align="center" style="padding:10px">
   <img src="https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=5&column=9" alt="GitHub Profile Trophy">
 </div>
+<br>
 
 [![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
