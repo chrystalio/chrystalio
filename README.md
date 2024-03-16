@@ -40,7 +40,7 @@
 - 🧠 Bangkit Academy Cohort 2024 - Cloud Computing 
 - 🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩
 - 💼 Full-time programmer passionate about coding
-- 🌐 Interested in Website and Mobile Development
+- 🌐 Interested in everything related to Tech
 - 💬 Enthusiastic about learning and collaborating in Web Development
 <br/>
 
