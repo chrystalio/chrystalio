@@ -57,14 +57,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrystalio&theme=radical" width="49%" >
 </div>
 
-<div align="center" style="padding:10px">
-  <img src="https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=5&column=9" alt="GitHub Profile Trophy">
-</div>
-<br>
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<br>
+
+<div align="center" style="padding:10px">
+  <img src="https://github-profile-trophy.vercel.app/?username=chrystalio&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=5&column=9" alt="GitHub Profile Trophy">
+</div>
 <br>
 
 [![@chrystalio's Holopin board](https://holopin.me/chrystalio)](https://holopin.io/@chrystalio)
