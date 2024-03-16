@@ -8,7 +8,7 @@
   <img src="https://profile-counter.glitch.me/chrystalio/count.svg" width="180px" />
 </p>
 
-<a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 5px;">
+<a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 10px;">
     <img src="https://www.codewars.com/users/chrystalio/badges/small" alt="Codewars Profile Badge">
 </a>
 <br>
