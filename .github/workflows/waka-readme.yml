@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # runs at 5 PM UTC every day (12 AM Jakarta)
+    - cron: "0 17 * * *"
 
 jobs:
   update-readme:
@@ -14,4 +14,12 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          SHOW_TITLE: true
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          TIME_RANGE: all_time
+          CODE_LANG: json
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          # Commmit
+          COMMIT_MESSAGE: "[SUCCESS] Workflow ran successfully at $(date)"
+
