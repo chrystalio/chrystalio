@@ -63,6 +63,15 @@
 <br>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript       2 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.50 %
+PHP              1 hr 36 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Python           1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
+Blade Template   44 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Text             27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+```
+
 <!--END_SECTION:waka-->
 
 <br>
