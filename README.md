@@ -46,7 +46,7 @@
       <li>💬 Enthusiastic about learning and collaborating in Web Development</li>
     </ul>
   </div>
-  <div style="flex: 1; padding-top:10px;">
+  <div style="flex: 2; padding-top:10px;">
     <img src="code.gif" width="200px">
   </div>
 </div>
