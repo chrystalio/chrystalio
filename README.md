@@ -25,7 +25,7 @@
 </a>
 <p> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chrystalio/count.svg" width="180px" />
+  <img src="https://profile-counter.glitch.me/chrystalio/count.svg"/>
 </p>
 
 <a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 10px;">
@@ -41,7 +41,9 @@
 - 🌐 Interested in everything related to Tech
 - 💬 Enthusiastic about learning and collaborating in Web Development
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"></iframe></div><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+<div align="center">
+<img src="hacker.gif" width="100%">
+</div>
 <br/>
 
 ## 📊 Activities :
