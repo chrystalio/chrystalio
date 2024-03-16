@@ -35,22 +35,14 @@
 </div>
 
 ## 👨🏻‍💻 About Me : 
+- 🧠 Bangkit Academy Cohort 2024 - Cloud Computing 
+- 🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩
+- 💼 Full-time programmer passionate about coding
+- 🌐 Interested in everything related to Tech
+- 💬 Enthusiastic about learning and collaborating in Web Development
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li>🧠 Bangkit Academy Cohort 2024 - Cloud Computing</li>
-      <li>🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩</li>
-      <li>💼 Full-time programmer passionate about coding</li>
-      <li>🌐 Interested in everything related to Tech</li>
-      <li>💬 Enthusiastic about learning and collaborating in Web Development</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding-top:10px;">
-    <img src="code.gif" width="200px">
-  </div>
-</div>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed"></iframe></div><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+<br/>
 
 ## 📊 Activities :
 <!-- Two column div -->
