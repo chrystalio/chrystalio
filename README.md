@@ -2,17 +2,6 @@
 <img src="computer.gif">
 
 <div align="center">
-
-<p> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chrystalio/count.svg" width="180px" />
-</p>
-
-<a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 10px;">
-    <img src="https://www.codewars.com/users/chrystalio/badges/small" alt="Codewars Profile Badge">
-</a>
-<br>
-
 <a href="https://dev.to/kristoffid" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
@@ -34,6 +23,15 @@
 <a href="https://freecodecamp.org/chrystalio_kie" target="_blank">
 <img src=https://img.shields.io/badge/freecodecamp-%2300f.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white alt=freecodecamp style="margin-bottom: 5px;" />
 </a>
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chrystalio/count.svg" width="180px" />
+</p>
+
+<a href="https://www.codewars.com/users/chrystalio" style="margin-bottom: 10px;">
+    <img src="https://www.codewars.com/users/chrystalio/badges/small" alt="Codewars Profile Badge">
+</a>
+<br>
 </div>
 
 ## 👨🏻‍💻 About Me : 
