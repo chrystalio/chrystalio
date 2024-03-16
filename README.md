@@ -37,7 +37,7 @@
 ## 👨🏻‍💻 About Me : 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 2;">
+  <div style="flex: 1;">
     <ul>
       <li>🧠 Bangkit Academy Cohort 2024 - Cloud Computing</li>
       <li>🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩</li>
