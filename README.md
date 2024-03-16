@@ -37,7 +37,7 @@
 ## 👨🏻‍💻 About Me : 
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 4;">
+  <div style="flex: 2;">
     <ul>
       <li>🧠 Bangkit Academy Cohort 2024 - Cloud Computing</li>
       <li>🎓 Second-year Computer Science student from Batam, Indonesia 🇮🇩</li>
@@ -46,7 +46,7 @@
       <li>💬 Enthusiastic about learning and collaborating in Web Development</li>
     </ul>
   </div>
-  <div style="flex: 2; padding-top:10px;">
+  <div style="flex: 1; padding-top:10px;">
     <img src="code.gif" width="200px">
   </div>
 </div>
