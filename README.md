@@ -61,16 +61,16 @@
 
 <!--START_SECTION:waka-->
 
-```json
-From: 29 September 2021 - To: 15 March 2024
+```python
+From: 29 September 2021 - To: 16 March 2024
 
-Total Time: 1,347 hrs 5 mins
+Total Time: 1,350 hrs 55 mins
 
-PHP               581 hrs 11 mins ██████████▓░░░░░░░░░░░░░░   43.13 %
-Blade Template    327 hrs         ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-HTML              149 hrs 5 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-JavaScript        65 hrs 2 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-CSS               61 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+PHP               581 hrs 11 mins ██████████▓░░░░░░░░░░░░░░   43.01 %
+Blade Template    327 hrs         ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+HTML              149 hrs 5 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+JavaScript        65 hrs 32 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+CSS               61 hrs 27 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
 ```
 
 <!--END_SECTION:waka-->
