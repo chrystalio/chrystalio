@@ -64,20 +64,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 September 2021 - To: 06 May 2024
+From: 29 September 2021 - To: 07 May 2024
 
-Total Time: 1,396 hrs 16 mins
+Total Time: 1,396 hrs 30 mins
 
-PHP                592 hrs 7 mins  █████████▓░░░░░░░░░░░░░░░   39.00 %
-Blade Template     341 hrs 28 mins █████▓░░░░░░░░░░░░░░░░░░░   22.49 %
-HTML               149 hrs 34 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Other              121 hrs 55 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-JavaScript         67 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-CSS                64 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-Python             44 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-Text               23 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Vue.js             15 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Markdown           13 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+PHP                592 hrs 14 mins █████████▓░░░░░░░░░░░░░░░   38.84 %
+Blade Template     341 hrs 36 mins █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
+HTML               149 hrs 34 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Other              128 hrs 14 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+JavaScript         67 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+CSS                64 hrs 29 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Python             44 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+Text               23 hrs 54 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+Vue.js             15 hrs 43 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown           13 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
