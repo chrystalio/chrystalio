@@ -64,14 +64,14 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 September 2021 - To: 17 May 2024
+From: 29 September 2021 - To: 18 May 2024
 
 Total Time: 1,404 hrs 39 mins
 
-PHP                592 hrs 59 mins █████████▒░░░░░░░░░░░░░░░   37.41 %
-Blade Template     344 hrs 21 mins █████▒░░░░░░░░░░░░░░░░░░░   21.72 %
-Other              180 hrs 37 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-HTML               149 hrs 34 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+PHP                592 hrs 59 mins █████████▒░░░░░░░░░░░░░░░   37.34 %
+Blade Template     344 hrs 21 mins █████▒░░░░░░░░░░░░░░░░░░░   21.68 %
+Other              183 hrs 24 mins ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+HTML               149 hrs 34 mins ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 JavaScript         68 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
 CSS                64 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 Python             44 hrs 27 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
