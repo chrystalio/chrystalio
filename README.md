@@ -37,8 +37,8 @@
 </div>
 
 ## 👨🏻‍💻 About Me : 
-- 🧠 Bangkit Academy Cohort 2024 - Cloud Computing 
-- 🎓 Third-year Computer Science student from Batam, Indonesia 🇮🇩
+- 🧠 Bangkit Academy 2024 Distinction Graduate - Cloud Computing 
+- 🎓 Fourth-year Computer Science student from Batam, Indonesia 🇮🇩
 - 💼 Full-time programmer passionate about coding
 - 🌐 Interested in anything related to Tech
 - 💬 Enthusiastic about learning and collaborating in Web Development
