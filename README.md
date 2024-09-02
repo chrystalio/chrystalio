@@ -4,7 +4,9 @@
 <div align="center">
 <img src="4AIE.gif">
 <br>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66d32727553501e3c355479a?variant=dark" alt="roadmap.sh"/></a>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66d32727553501e3c355479a?variant=dark)](https://roadmap.sh)
+
 <br>
 <br>
 <a href="https://dev.to/kristoffid" target="_blank">
