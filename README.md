@@ -42,7 +42,8 @@
 </div>
 
 ## 👨🏻‍💻 About Me : 
-- 🧠 Bangkit Academy 2024 Distinction Graduate - Cloud Computing 
+- 🚀 Google Cloud Certified Associate Cloud Engineer (ACE)
+- 🧠 Bangkit Academy 2024 Distinction Graduate - Cloud Computing
 - 🎓 Fourth-year Computer Science student from Batam, Indonesia 🇮🇩
 - 💼 Full-time programmer passionate about coding
 - 🌐 Interested in anything related to Tech
