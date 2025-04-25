@@ -8,6 +8,8 @@
 [![roadmap.sh](https://roadmap.sh/card/wide/66d32727553501e3c355479a?variant=dark)](https://roadmap.sh)
 
 <br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=354472" style='border:none;'></iframe>
+<br>
 <br>
 <a href="https://dev.to/kristoffid" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
@@ -30,7 +32,7 @@
 <a href="https://freecodecamp.org/chrystalio_kie" target="_blank">
 <img src=https://img.shields.io/badge/freecodecamp-%2300f.svg?&style=for-the-badge&logo=freecodecamp&logoColor=white alt=freecodecamp style="margin-bottom: 5px;" />
 </a>
-<p> 
+<p>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/chrystalio/count.svg" />
 </p>
@@ -41,7 +43,7 @@
 <br>
 </div>
 
-## 👨🏻‍💻 About Me : 
+## 👨🏻‍💻 About Me :
 - ☁️ Google Cloud Certified Associate Cloud Engineer (ACE)
 - 🧠 Bangkit Academy 2024 Distinction Graduate - Cloud Computing
 - 🎓 Fourth-year Computer Science student from Batam, Indonesia 🇮🇩
