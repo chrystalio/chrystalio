@@ -4,11 +4,6 @@
 <div align="center">
 <img src="4AIE.gif">
 <br>
-
-[![roadmap.sh](https://roadmap.sh/card/wide/66d32727553501e3c355479a?variant=dark)](https://roadmap.sh)
-
-<br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=354472" style='border:none;'></iframe>
 <br>
 <br>
 <a href="https://dev.to/kristoffid" target="_blank">
