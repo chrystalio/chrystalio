@@ -66,20 +66,20 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 29 September 2021 - To: 30 May 2025
+From: 29 September 2021 - To: 31 May 2025
 
 Total Time: 1,797 hrs 17 mins
 
-Other              1,973 hrs 46 mins█████████████░░░░░░░░░░░░   52.34 %
-PHP                726 hrs 15 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.26 %
-Blade Template     458 hrs 52 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Other              1,975 hrs 48 mins█████████████░░░░░░░░░░░░   52.37 %
+PHP                726 hrs 15 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.25 %
+Blade Template     458 hrs 52 mins ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
 HTML               156 hrs 40 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
 JavaScript         103 hrs 20 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 CSS                74 hrs 20 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Python             46 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Python             46 hrs 12 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 Text               39 hrs 31 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 Markdown           26 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-TypeScript         20 hrs 56 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript         20 hrs 56 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
