@@ -17,12 +17,11 @@
 </div>
 
 ## 👨🏻‍💻 About Me :
-- ☁️ Google Cloud Certified Associate Cloud Engineer (ACE)
-- 🧠 Bangkit Academy 2024 Distinction Graduate - Cloud Computing
-- 🎓 Fourth-year Computer Science student from Batam, Indonesia 🇮🇩
-- 💼 Full-time programmer passionate about coding
-- 🌐 Interested in anything related to Tech
-- 💬 Enthusiastic about learning and collaborating in Web Development
+- ☁️ Google Cloud Certified Associate (ACE)
+- 🏆 Bangkit Academy 2024 Distinction Graduate
+- 💻 Fullstack Web Developer
+- 🎓 Bachelor of Computer Science
+- 📍 Batam, Indonesia 🇮🇩
 
 <div align="center">
 <img src="hacker.gif" width="100%">
